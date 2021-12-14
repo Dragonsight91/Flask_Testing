@@ -1,0 +1,3 @@
+graft src/api_tests/static
+graft src/api_tests/templates
+global-exclude *.pyc
